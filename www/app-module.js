@@ -3,6 +3,8 @@
 	angular.module('app', [
 			'ui.router',	
 			'ngResource',
+			'ui.bootstrap',
+			'uiGmapgoogle-maps',
 			'br.com.michel.templates',
 			'br.com.michel.login'
 		])

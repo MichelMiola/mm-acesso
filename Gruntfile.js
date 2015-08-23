@@ -20,7 +20,10 @@ module.exports = function(grunt) {
     DIR_LIB_BUILD + "bootstrap/dist/js/bootstrap.js",
     DIR_LIB_BUILD + "angular/angular.js",
     DIR_LIB_BUILD + "angular-ui-router/release/angular-ui-router.js",
-    DIR_LIB_BUILD + "angular-resource/angular-resource.js"
+    DIR_LIB_BUILD + "angular-resource/angular-resource.js",
+    DIR_LIB_BUILD + "angular-bootstrap/ui-bootstrap-tpls.js",
+    DIR_LIB_BUILD + "lodash/lodash.js",
+    DIR_LIB_BUILD + "angular-google-maps/dist/angular-google-maps.js"
   ];
 
   var libsCssPath = [

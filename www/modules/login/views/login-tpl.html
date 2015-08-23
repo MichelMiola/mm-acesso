@@ -1,2 +1,12 @@
-<h1 class="text-center">Login</h1>
-<h2>{{controller}}</h2>
+<h1 ng class="text-center">Login</h1>
+<tabset>
+	<tab active="true" heading="passo 1" >
+
+	</tab>
+	<tab heading="passo 2" ng-click="loadMap()">
+		<ui-gmap-google-map center="map.center" draggable="true" zoom="map.zoom" 
+			control="map.control" events="map.events">
+		</ui-gmap-google-map>
+		<!-- <input type="button" value="Load" ng-click="loadMap()"> -->
+	</tab>
+</tabset>
