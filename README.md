@@ -6,7 +6,7 @@ de componentes ou projetos profissionais.
 
 ## As tecnologias que vão estar sendo usadas no primeiro momento:
 
-- jasmine(http://jasmine.github.io/)
-- karma(https://karma-runner.github.io/0.13/index.html)
-- angular-mocks(https://github.com/angular/bower-angular-mocks)
+- [jasmine](http://jasmine.github.io/)
+- [karma](https://karma-runner.github.io/0.13/index.html)
+- [angular-mocks](https://github.com/angular/bower-angular-mocks)
 
